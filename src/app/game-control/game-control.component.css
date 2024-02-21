@@ -1,0 +1,18 @@
+.btn-spc
+{
+    margin:0rem 5rem;
+    height:8rem;
+    width:12rem;
+    font-size: 3rem;
+}
+
+.heading
+{
+    font-size: 5rem;
+    transition: 1s;
+}
+.heading:hover
+{
+    font-size: 6rem;
+    transition: 1s;
+}
